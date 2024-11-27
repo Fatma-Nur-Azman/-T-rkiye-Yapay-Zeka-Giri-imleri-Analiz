@@ -51,7 +51,7 @@ def home_page():
     )
 
     # Mor görsel
-    st.image("https://turkiye.ai/wp-content/uploads/2020/06/slider-image-2.jpg", use_column_width=True)
+    st.image("https://turkiye.ai/wp-content/uploads/2020/06/slider-image-2.jpg", use_container_width=True)
 
 # Veri Görselleştirme Sayfası
 
@@ -118,8 +118,9 @@ def visualization_page(data):
 
     # Başlık ve etiketler
     ax.set_title("Kategori Bazında Şirket Dağılımı", size=20, pad=20)
-    ax.set_xlabel("Şirket Sayısı", size=20, labelpad=10)
-    
+    ax.set_xlabel("Şirket Sayısı", size=16, labelpad=10)
+    ax.set_ylabel("Kategori", size=16, labelpad=10)
+
     # Izgara
     ax.grid(True, axis='x', linestyle='--', alpha=0.7)
     
