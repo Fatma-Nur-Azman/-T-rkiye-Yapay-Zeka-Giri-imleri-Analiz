@@ -39,7 +39,7 @@ def home_page():
             <strong>Kategorilere Göre Girişimci Analizi</strong> :  sekmesinde, girişimleri alanlarına göre keşfedin. Grafikler ve istatistiklerle hangi alanın ne kadar popüler olduğunu görün.<br>
             <strong>Girişimcilerin Bilgileri</strong> : sekmesinde, ilginizi çeken girişimlerin detaylarını öğrenin ve dilerseniz web sitelerine yönlendirilin.<br>
             Bu projeyi hayata geçirme sürecinde, Türkiye Yapay Zeka İnisiyatifi'nin (turkiye.ai) sunduğu verilere dayandım. Amacım, herkes için yapay zeka ekosistemine dair değerli bir kaynak yaratmak.<br><br>
-            Sorularınız ya da geri bildirimleriniz için bana LinkedIn üzerinden ulaşabilirsiniz.<br>
+            Sorularınız ya da geri bildirimleriniz için bana LinkedIn üzerinden ulaşabilirsiniz..<br>
             Umarım platformumdan keyif alır ve yararlı bulursunuz! 😊<br><br>
             <strong>Hazırlayan:</strong> Fatma Nur Azman<br>
             <a href="https://www.linkedin.com/in/fatmanurazman/" style="color:#00aced;text-decoration:none;" target="_blank">LinkedIn: Fatma Nur Azman</a><br><br>
