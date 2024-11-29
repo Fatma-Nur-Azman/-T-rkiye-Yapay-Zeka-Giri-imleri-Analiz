@@ -4,6 +4,10 @@ Bu proje, Türkiye'deki yapay zeka girişimlerini analiz etmenize, tanımanıza 
 
 ---
 
+Projemizin streamlit uygulmasına gitmek için: https://turkiyeyapayzekagirisimleri1923.streamlit.app/
+
+---
+
 ## Platformda Neler Bulabilirsiniz?
 
 1. **Kategorilere Göre Analiz**  
